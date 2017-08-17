@@ -31,10 +31,13 @@ To improve the user experience, include the three following buttons:
 “Move Selected”- This button will work along with a checkbox system. The user can select a few albums via checkboxes and click on this button. Only the selected albums will be moved to Google Drive
 “Move All”- This button will immediately move all user albums to Google Drive within their respective folders.
 Make sure that the user is asked to connect to their Google account only once, no matter how many times they choose to move data.
------------------------------------------------------------------------------------------------------------------------------
+
+
 Style-css
 Library used-https://developers.facebook.com/docs/reference/php/4.0.0
 http://getbootstrap.com/
+Facebook profile 'rtc.test'
+https://www.facebook.com/profile.php?id=100004476514288
 
 
 
